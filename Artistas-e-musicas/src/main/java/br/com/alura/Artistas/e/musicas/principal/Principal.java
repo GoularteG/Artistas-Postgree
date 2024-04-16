@@ -99,7 +99,5 @@ public class Principal {
         musicas.forEach(System.out::println);
     }
 
-    private void pesquisarDadosSobreUmArtista() {
-    }
 
 }
